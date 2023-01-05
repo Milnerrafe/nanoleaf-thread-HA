@@ -1,3 +1,5 @@
+"""Platform for nanoleaf light integration."""
+
 # -*- coding: UTF-8 -*-
 
 #
