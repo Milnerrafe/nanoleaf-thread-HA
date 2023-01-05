@@ -1,0 +1,10 @@
+{
+  "domain": "nanoleaf_light",
+  "name": "nanoleaf Light",
+  "documentation": "https://github.com/Milnerrafe/nanoleaf-thread-HA/",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": ["awesomelights==1.2.3"],
+  "iot_class": "local_polling",
+  "version": "0.1.0"
+}
